@@ -1,0 +1,21 @@
+INSTALL OPENCV di Python3 (sistem operasi linux, distro xubuntu 18.04 64 bit)
+1. Install package virtualenv
+    sudo apt-get install virtualenv (done)
+2. install package tkinter python3
+    sudo apt-get install python3-tk (done)
+3. Buat virtual environtment yang bernama "cvenv"
+    virtualenv -p python3 cvenv (done)
+4. mengaktifkan virtualenv cvenv
+    source cvenv/bin/activate (done) -> muncul (cvenv)
+5. Check isi library di virtualenv cvenv
+    pip list (aman)
+6. install opencv
+    pip install opencv-python (done)
+7. check opencv 
+    buka python
+    import cv2 (done)
+8. check isi library terbaru
+    ada opencv-python :)
+
+Terimakasih
+Aglissae

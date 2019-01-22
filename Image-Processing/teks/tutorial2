@@ -1,0 +1,11 @@
+Tutorial Membaca (load) dan Menampilkan Image di OpenCV-Python
+
+- Siapkan gambar, saya pilih gambar baboon (done)
+- Jalankan virtual environment (done)
+    source cvenv/bin/activate
+- Buat Python Baru, kita beri nama opencv_learn1.py
+- Lets Code
+    load image (done)
+    show image (done)
+
+Terimakasih
