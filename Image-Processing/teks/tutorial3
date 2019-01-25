@@ -1,0 +1,22 @@
+Grayscale dan Binary Image
+
+Jalankan Virtual Environment
+
+Load Image
+Grayscale Image
+    Metode imread dengan flag 0
+    Metode imread dengan flag Grayscale
+    Metode cvtColor 
+Binary Image
+    Thresh_binary
+    Thresh_binary_inv
+    trunc
+    tozero
+    tozero_inv
+    adaptive_tresh_mean_c
+    adaptive_tresh_gaussian_c
+    otsu
+
+https://docs.opencv.org/3.4.0/d7/d4d/tutorial_py_thresholding.html
+https://stackoverflow.com/questions/37203970/opencv-grayscale-mode-vs-gray-color-conversion
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html
