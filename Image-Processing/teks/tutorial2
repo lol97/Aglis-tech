@@ -9,3 +9,8 @@ Tutorial Membaca (load) dan Menampilkan Image di OpenCV-Python
     show image (done)
 
 Terimakasih
+
+image_processing
+  ├ Image
+  | └ baboon.png
+  └ opencv_learn1.py
